@@ -6,3 +6,10 @@ scikit-learn
 plotly
 seaborn
 missingno
+
+statsmodels # create-and-analyze-regression
+openpyxl # for reading excel files in create-and-analyze-regression
+
+# sklearn  # text-vectorization
+gensim # text-vectorization
+nltk #word-doc-embedding-method
