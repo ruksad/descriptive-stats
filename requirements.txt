@@ -7,6 +7,9 @@ plotly
 seaborn
 missingno
 
+
+category_encoders # feature-encoding
+
 statsmodels # create-and-analyze-regression
 openpyxl # for reading excel files in create-and-analyze-regression
 
