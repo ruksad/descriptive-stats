@@ -4,4 +4,4 @@ matplotlib
 nltk
 gensim
 scikit-learn
-
+imblearn  # seletive resampling
